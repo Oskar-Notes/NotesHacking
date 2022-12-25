@@ -30,5 +30,5 @@ gobuster dir -w /usr/share/seclists/Discovery/Web-Content/raft-large-words.txt -
   <li>-u url to webpage</li>
   <li>-p password for basic auth</li>
   <li>-U username for basic auth</li>
-  <li>-X search for specific file extension</li>
+  <li>-x search for specific file extension</li>
 </ul>
