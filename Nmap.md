@@ -11,3 +11,5 @@
 -p 1–6000 runs a port scan from port 1 to port 60000.
 
 -T2 tells the command to use polite Intrusion Detection Software evasion to get by unnoticed (hopefully).
+
+-sS stealth scan where connection will be closed differently? seems to reveal more ports
