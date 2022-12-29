@@ -8,5 +8,15 @@
 you can create more file descriptors
 
 ## Redirects
+
+<ul>
+  <li>> to redirect the standard ouput</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+### Resources
 https://catonmat.net/bash-one-liners-explained-part-three
+
 
