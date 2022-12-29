@@ -10,8 +10,8 @@ you can create more file descriptors
 ## Redirects
 
 <ul>
-  <li>> to redirect the standard ouput</li>
-  <li></li>
+  <li>`>` to redirect the standard ouput</li>
+  <li>`n>` to redirect a specified file descripter (e.g `2>` to redirect stderr</li>
   <li></li>
   <li></li>
 </ul>
