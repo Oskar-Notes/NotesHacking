@@ -1,0 +1,4 @@
+# Bash
+
+## Redirects
+https://catonmat.net/bash-one-liners-explained-part-three
